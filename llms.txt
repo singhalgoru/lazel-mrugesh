@@ -1,0 +1,6 @@
+This repository, singhalgoru/lazel-mrugesh, is an Adobe Experience Manager (AEM) Edge Delivery Services project. It contains blocks, styles, and scripts for a website.
+
+Key AEM Edge Delivery Documentation:
+- AEM Developer Documentation: https://www.aem.live/developer/
+- AEM Blocks Documentation: https://www.aem.live/developer/guides/blocks
+- AEM Best Practices: https://www.aem.live/developer/guides/best-practices-for-developers
